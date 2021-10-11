@@ -1,0 +1,5 @@
+@0000 0B05    // LOAD 0b   acc = 3
+@0001 0C01    // ADD  0c   acc = 3+2= 5
+@0002 0204    // JMP 02 // this will halt the code.
+@000b 0003    //A data = 3
+@000c 0002    //B data = 2
